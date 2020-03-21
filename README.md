@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School Markdown &amp; Git Task
+https://Slawek-Sandbox.github.io/rsschool-cv/cv
